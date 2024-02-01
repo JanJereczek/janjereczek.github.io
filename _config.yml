@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "M.Sc."
+title                    : "Homepage of Jan Jereczek"
 title_separator          : "-"
-name                     : &name "Jan Swierczek-Jereczek"
+name                     : &name "Jan Jereczek"
 description              : &description "PhD candidate at Complutense University of Madrid"
 url                      : https://janjereczek.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
