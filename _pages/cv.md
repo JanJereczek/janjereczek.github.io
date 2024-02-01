@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physical Engineering, Technical University of Berlin, 2017
+* M.Sc. in Simulation and Control Engineering, Technical University of Berlin, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020: Working student
+  * IAV GmbH
+  * Duties included: Developping a mechanical model of rover, a path-following control and a deep-learning predictor of moving obstacles.
+  * Supervisor: Sebastian Bernhard
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* 2018-2020: Teaching Assistant
+  * Technical University of Berlin
+  * Duties included: 3 classes a week 
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -50,10 +40,24 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* 2022-now: Supervision of Bacherlor's theses
+  * Complutense University of Madrid
+  * Duties included: Defining and co-supervising 2 bachelor theses per year
+  * Topic: Early warning signals of a collapse of the West-Antarctic Ice Sheet
+
+* 2018-2020: Teaching Assistant
+  * Technical University of Berlin
+  * Duties included: 3 classes a week 
+  * Supervisor: Professor Hub
+
+
+Software development
+======
+* [FastIsostasy.jl](https://github.com/JanJereczek/FastIsostasy.jl)
+* [TransitionsInTimeseries.jl](https://github.com/JuliaDynamics/TransitionsInTimeseries.jl)
+* [Regional models of glacial isostatic adjustment](https://github.com/palma-ice/isostasy)
+
+<!-- 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
