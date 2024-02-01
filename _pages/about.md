@@ -12,12 +12,12 @@ My name is Jan Swierczek-Jereczek (insert joke about unpronouciable name). I am 
 
 If you enjoy some random memes:
 
-![fft](fft.png)
-![climatemodelf77](climatemodelf77.png)
-![astro-geo](astro-geo.png)
-![beaurocracy](beaurocracy.png)
-![bane-fastiso](bane-fastiso.png)
-![public-funding](public-funding.png)
-![reading-own-notes](reading-own-notes.png)
-![reinvent-wheel](reinvent-wheel.png)
-![variability](variability.png)
+![fft](images/fft.png)
+![climatemodelf77](images/climatemodelf77.png)
+![astro-geo](images/astro-geo.png)
+![beaurocracy](images/beaurocracy.png)
+![bane-fastiso](images/bane-fastiso.png)
+![public-funding](images/public-funding.png)
+![reading-own-notes](images/reading-own-notes.png)
+![reinvent-wheel](images/reinvent-wheel.png)
+![variability](images/variability.png)
