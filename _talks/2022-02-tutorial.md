@@ -4,7 +4,7 @@ collection: talks
 type: "Tutorial"
 permalink: /talks/2022-02-tutorial
 venue: "Complutense University of Madrid"
-date: 2022-02
+date: 2022-02-01
 location: "Madrid, Spain"
 ---
 
