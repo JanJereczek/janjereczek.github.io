@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Intro
-
 My name is Jan Swierczek-Jereczek (insert joke about unpronouciable name). I am a PhD candidate at the Complutense University of Madrid, funded by a Marie Sklodowska-Curie Action. I mostly study past and future abrupt changes of the Antarctic Ice Sheet and therefore focus largely on climate, glaciology and glacial isostatic adjustment. Furthermore, I am interested in applying concepts of nonlinear dynamics, control theory and machine learning to Earth system modelling and analysis.
 
 ## Making a positive change in science
