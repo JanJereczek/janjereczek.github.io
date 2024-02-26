@@ -1,0 +1,14 @@
+---
+title: "FastIsostasy v1.0 – An accelerated, regional 2D GIA model accounting for the lateral variability of the solid Earth"
+collection: publications
+permalink: /publication/2024-fastiso
+excerpt: 'This paper describes the development of FastIsostasy, a model of glacial isostatic adjustment tailored to the needs of ice-sheet modellers who want a better representation of the deformational and gravitational response of the laterally-variable solid Earth to changes in surface load.'
+date:
+venue: 'Geoscientific model development'
+paperurl: 'https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2869/#discussion'
+citation: 'Jan Swierczek-Jereczek, Marisa Montoya, Konstantin Latychev, Alexander Robinson, Jorge Alvarez-Solas and Jerry Mitrovica (in revision). &quot;Time-scale synchronisation of oscillatory responses can lead to non-monotonous R-tipping.&quot; <i>Geoscientific model development</i>.'
+---
+
+## Abstract
+
+The vast majority of ice-sheet modelling studies rely on simplified representations of the Glacial Isostatic Adjustment (GIA), which, among other limitations, do not account for lateral variations of the lithospheric thickness and upper-mantle viscosity. In studies using 3D GIA models, this has however been shown to have major impacts on the dynamics of marine- based sectors of Antarctica, which are likely to be the greatest contributors to sea-level rise in the coming centuries. This gap in comprehensiveness is explained by the fact that 3D GIA models are computationally expensive, seldomly open-source and require the implementation of an iterative coupling scheme to converge with the history of the ice-sheet model. To close this gap between "best" and "tractable" GIA models, we here propose FastIsostasy, a regional GIA model capturing lateral variations of the lithospheric thickness and mantle viscosity. By means of Fast-Fourier transforms and a hybrid collocation scheme to solve its underlying partial differential equation, FastIsostasy can simulate 100,000 years of high-resolution bedrock displacement in only minutes of single-CPU computation, including the changes in sea-surface height due to mass redistribution. Despite its 2D grid, FastIsostasy parametrises the depth-dependent viscosity in a physically meaningful way and therefore represents the depth dimension to a certain extent. FastIsostasy is here benchmarked against analytical, 1D and 3D GIA solutions and shows very good agreement with them. It is fully open-source, documented with many examples and provides a straight-forward interface for coupling to an ice-sheet model. The model is benchmarked here based on its implementation in Julia, while a Fortran version is also provided to allow for compatibility with most existing ice-sheet models. The Julia version provides additional features, including a vast library of time-stepping methods and GPU support.
