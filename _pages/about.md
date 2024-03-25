@@ -20,7 +20,7 @@ The main undertaking of my PhD consists in the development of [FastIsostasy.jl](
   <source src="videos/transect_shelves_thwaitesamery.mp4" type="video/mp4">
 </video> -->
 
-https://media.githubusercontent.com/media/JanJereczek/janjereczek.github.io/master/videos/transect_shelves_thwaitesamery.mp4
+<!-- https://media.githubusercontent.com/media/JanJereczek/janjereczek.github.io/master/videos/transect_shelves_thwaitesamery.mp4 -->
 
 As of today, Julia code cannot be statically compiled to binaries, which can be a great obstacle to coupling it to ice-sheet models. To tackle this, Alex Robinson and I programmed a [Fortran version of the code](https://github.com/palma-ice/isostasy), which also includes simpler regional GIA models.
 
