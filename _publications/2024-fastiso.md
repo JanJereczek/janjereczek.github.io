@@ -3,7 +3,7 @@ title: "FastIsostasy v1.0 – An accelerated, regional 2D GIA model accounting f
 collection: publications
 permalink: /publication/2024-fastiso
 excerpt: 'This paper describes the development of FastIsostasy, a model of glacial isostatic adjustment tailored to the needs of ice-sheet modellers who want a better representation of the deformational and gravitational response of the laterally-variable solid Earth to changes in surface load.'
-date:
+date: 2023-12-01
 venue: 'Geoscientific model development'
 paperurl: 'https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2869/#discussion'
 citation: 'Jan Swierczek-Jereczek, Marisa Montoya, Konstantin Latychev, Alexander Robinson, Jorge Alvarez-Solas and Jerry Mitrovica (in revision). &quot;Time-scale synchronisation of oscillatory responses can lead to non-monotonous R-tipping.&quot; <i>Geoscientific model development</i>.'
