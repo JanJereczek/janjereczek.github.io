@@ -16,11 +16,11 @@ I particularly enjoy programming and therefore develop open-source softwares aro
 
 The main undertaking of my PhD consists in the development of [FastIsostasy.jl](https://github.com/JanJereczek/FastIsostasy.jl), a regional GIA model that captures the solid-Earth response at extremely low computational cost, even for laterally-variable Earth structures. For instance, simulating the Antarctic GIA response to the last glacial cycle takes less than 10 minutes on a low-end 2022 GPU despite using a relatively high resolution of 20 km. Compared to a computationally much more expensive 3D GIA model, the error in displacement and sea level is of less than 5% on average and 14% at most. With this tool, performing ensemble simulations that sample the uncertainties of the solid-Earth properties becomes easily feasible.
 
-<video width="320" height="240" controls>
+The video below depicts the bedrock displacement computed by FastIsostasy when provided with the ice loading history from ICE6G_D (main panel), as well as the perturbation of sea-surface elevation, the spatial pattern of ice thickness and the timeseries of integrated ice thickness (upper panels).
+
+<video width="800" height="600" controls>
   <source src="videos/transect_shelves_thwaitesamery.mp4" type="video/mp4">
 </video>
-
-<!-- https://media.githubusercontent.com/media/JanJereczek/janjereczek.github.io/master/videos/transect_shelves_thwaitesamery.mp4 -->
 
 As of today, Julia code cannot be statically compiled to binaries, which can be a great obstacle to coupling it to ice-sheet models. To tackle this, Alex Robinson and I programmed a [Fortran version of the code](https://github.com/palma-ice/isostasy), which also includes simpler regional GIA models.
 
