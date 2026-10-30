@@ -1,0 +1,15 @@
+---
+title: 'Highlighting processes underlying the stability and hysteresis of the Antarctic Ice Sheet'
+collection: publications
+permalink: /publication/2026-ais-hysteresis
+excerpt: 'An adaptive forcing captures previously unidentified bifurcations of the Antarctic Ice Sheet. We describe the perimeter feedback, a positive feedback on the mass balance of marine ice sheets during both retreat and regrowth.'
+date: 2026-02-11
+venue: 'EGUsphere'
+status: preprint
+paperurl: 'https://doi.org/10.5194/egusphere-2025-6566'
+citation: 'Swierczek-Jereczek, J., Alvarez-Solas, J., Robinson, A., Gutiérrez-González, L., Montoya, M. (2026). Highlighting processes underlying the stability and hysteresis of the Antarctic Ice Sheet. <i>EGUsphere</i>.'
+---
+
+## Abstract
+
+Previous studies assessed that the Antarctic Ice Sheet (AIS) is subject to hysteresis, which means that if ice is lost due to an increase of temperature, a comparatively larger decrease is needed to recover the original state. This implies that the ice-sheet volume is multistable with respect to temperature and that ice loss can be abrupt and largely irreversible. This was simulated throughout a variety of modelling setups by using forcing ramps or steps which are prescribed offline. In contrast, the present study relies on an online, adaptive forcing technique in which the temperature anomalies are only increased when the rate of ice volume is below a tolerance that is significantly smaller than the present-day ice volume loss. Thus, previously unidentified bifurcations of the AIS are captured. We herein highlight the processes underlying such bifurcations. First, we show that the marine ice sheet instability (MISI) is an important driver of the numerous self-sustained retreats experienced by the East-Antarctic Subglacial Basins. Second, we highlight that the merger of two ice caps is an important driver of self-sustained regrowth. We refer to this as the perimeter feedback to generalise the interplay between ice-sheet geometry, ice flow, surface mass balance and thermodynamics which was partially described in studies considering the merger/collapse of ice saddles in different glaciological applications. We emphasise, for the first time to our knowledge, that the perimeter feedback applies beyond the case of a saddle merger/collapse and represents an important positive feedback on the mass balance of marine ice sheets, both at retreat and regrowth. Furthermore, by using a glacial isostatic adjustment (GIA) model of intermediate complexity, we highlight that, although GIA locally acts as a negative feedback on ice-sheet dynamics, it crucially eases other positive feedbacks on the continental scale and modulates the ice-ocean interaction. Finally, we show that the magnitude of the hysteresis might be larger than previously assessed in a similar modelling framework. We explain this by the increased sensitivity to the ocean of the present setup, which results from including a more marked nonlinearity of the basal friction law and an enhanced melt at the grounding zone due to tidal water intrusion, as suggested by recent publications.

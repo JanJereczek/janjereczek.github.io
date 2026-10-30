@@ -8,4 +8,4 @@ date: 2022-09-01
 location: "Madrid, Spain"
 ---
 
-Since September 2022, I am co-supervising two bachelor's theses per year at the Complutense University of Madrid. By using deep learning, the students have to perform an early detection of a West-Antarctic collapse and document their result.
+Between 2022 and 2024, I co-supervised bachelor's theses at the Complutense University of Madrid on detecting a West-Antarctic Ice Sheet collapse early with deep learning.

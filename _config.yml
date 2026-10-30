@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Jan Jereczek"
+title                    : "Jan Swierczek-Jereczek"
 title_separator          : "-"
-name                     : &name "Jan Jereczek"
-description              : &description "PhD candidate at Complutense University of Madrid"
+name                     : &name "Jan Swierczek-Jereczek"
+description              : &description "Postdoctoral researcher at the Geosciences Institute (CSIC-UCM) and Complutense University of Madrid"
 url                      : https://janjereczek.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JanJereczek/janjereczek.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jan Jereczek"
+  name             : "Jan Swierczek-Jereczek"
   avatar           : "profile.png"
-  bio              : "PhD candidate with focus on climate, glaciology and nonlinear dynamics"
+  bio              : "Postdoc working on Antarctic Ice Sheet stability, glacial isostatic adjustment and nonlinear dynamics"
   location         : "Madrid, Spain"
   employer         :
   pubmed           :
@@ -146,6 +146,8 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - webpage-roadmap
+  - CLAUDE.md
 keep_files:
   - .git
   - .svn
