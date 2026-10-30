@@ -37,16 +37,11 @@ See [talks](/talks/).
 
 Teaching
 ======
-* 2026-2027: Introduction to ice-sheet and GIA modelling, IMEIO, Polytechnic University of Madrid
-* 2018-2020: Mechanics I & II for engineers, TU Berlin
+See [teaching](/teaching/).
 
 Supervision
 ======
-* 2026-2030: PhD thesis. Emulating sub-shelf dynamics with deep learning
-* 2026-2027: Master's thesis. Future coastline migration impacted by tidal intrusions below the Antarctic Ice Sheet
-* 2025-2026: Master's thesis. Symbolic regression of Pleistocene glacial cycle dynamics
-* 2024-2025: Master's thesis. Inferring basal melt rates of Antarctic ice shelves with deep learning
-* 2022-2024: Bachelor's theses. Neural indicators of a West-Antarctic Ice Sheet collapse
+See [supervision](/supervision/).
 
 Software
 ======
