@@ -12,7 +12,8 @@ author_profile: true
 {% include base_path %}
 
 {% assign preprints = site.publications | where: "status", "preprint" %}
-{% assign published = site.publications | where_exp: "item", "item.status != 'preprint'" %}
+{% assign published = site.publications | where_exp: "item", "item.status != 'preprint'" | where_exp: "item", "item.status != 'thesis'" %}
+{% assign theses = site.publications | where: "status", "thesis" %}
 
 ## Preprints
 
@@ -23,5 +24,11 @@ author_profile: true
 ## Published
 
 {% for post in published reversed %}
+  {% include publication-row.html %}
+{% endfor %}
+
+## PhD thesis
+
+{% for post in theses %}
   {% include publication-row.html %}
 {% endfor %}

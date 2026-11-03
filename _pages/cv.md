@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2021-2026: Ph.D. in Physics, cum laude, Complutense University of Madrid & CriticalEarth
+* 2021-2026: Ph.D. in Physics, cum laude, Complutense University of Madrid & CriticalEarth. Thesis: [Stability of the Antarctic ice sheet](https://hdl.handle.net/20.500.14352/137868)
 * 2017-2021: M.Sc. in Engineering Science, cum laude, TU Berlin
 * 2019: Erasmus+, University of Sevilla
 * 2013-2017: B.Sc. in Engineering Science, cum laude, TU Berlin
