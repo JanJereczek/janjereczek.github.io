@@ -20,6 +20,7 @@ Work experience
 ======
 * 2026-now: Postdoctoral researcher, Geosciences Institute (CSIC-UCM) & Complutense University of Madrid
 * 2021-2026: Ph.D. researcher, CriticalEarth, Complutense University of Madrid. Abrupt transitions of the Antarctic Ice Sheet
+* 2023: Research secondment, Royal Meteorological Institute of Belgium, Brussels. Supervised by Stéphane Vannitsem and David Docquier
 * 2022: Research secondment, Potsdam Institute for Climate Impact Research. Long-term dynamics of the Earth system
 * 2020: Working student, TU Berlin & IAV GmbH. Path-following control with deep-learning motion prediction for mobile robots
 * 2018-2020: Teaching fellow, TU Berlin. Statics & strength of materials, kinematics & dynamics
@@ -56,7 +57,7 @@ Languages
 ======
 French (native), German (C2), English (C2), Spanish (C2), Polish (B1)
 
-<!-- 
-Service and leadership
+Community
 ======
-* Currently signed in to 43 different slack teams -->
+* Technical lead of [GIAMIP](https://sites.google.com/view/giagrdmip/home), the GIA model intercomparison project
+* Member of the GIA focus group of [ISMIP7](https://www.ismip.org/)

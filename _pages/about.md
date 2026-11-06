@@ -20,6 +20,10 @@ Not just how much, but how *fast* the Earth warms, is important for Antarctic st
 
 [Read more and try the toy model](/rtip-antarctica/), or see the [paper](https://doi.org/10.1038/s41561-026-02117-8). I also talked about it in a [ClimTip webinar](https://www.youtube.com/watch?v=MzmfuG4tJio).
 
+## Community
+
+I am the technical lead of [GIAMIP](https://sites.google.com/view/giagrdmip/home), the GIA model intercomparison project, and part of the GIA focus group of [ISMIP7](https://www.ismip.org/).
+
 ## FastIsostasy.jl
 
 My PhD thesis, [Stability of the Antarctic ice sheet](https://hdl.handle.net/20.500.14352/137868), was defended in March 2026. Its main undertaking was the development of [FastIsostasy.jl](https://github.com/JanJereczek/FastIsostasy.jl), a regional GIA model that captures the solid-Earth response at extremely low computational cost, even for laterally-variable Earth structures. For instance, simulating the Antarctic GIA response to the last glacial cycle takes less than 10 minutes on a low-end 2022 GPU despite using a relatively high resolution of 20 km. Compared to a computationally much more expensive 3D GIA model, the error is less than 5% on average and 16% at most. With this tool, performing ensemble simulations that sample the uncertainties of the solid-Earth properties becomes easily feasible.
