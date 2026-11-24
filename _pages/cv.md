@@ -20,9 +20,9 @@ Work experience
 ======
 * 2026-now: Postdoctoral researcher, Geosciences Institute (CSIC-UCM) & Complutense University of Madrid. Past to Future (P2F) project, Horizon Europe
 * 2021-2026: Ph.D. researcher, CriticalEarth, Complutense University of Madrid. Abrupt transitions of the Antarctic Ice Sheet
-* 2025: Research secondment, Alfred Wegener Institute
-* 2023: Research secondment, Royal Meteorological Institute of Belgium, Brussels. Supervised by Stéphane Vannitsem and David Docquier
-* 2022: Research secondment, Potsdam Institute for Climate Impact Research. Long-term dynamics of the Earth system
+* 2025: Research secondment, Alfred Wegener Institute, Potsdam. Next-generation ice-sheet modelling. Supervised by Alex Robinson
+* 2023: Research secondment, Royal Meteorological Institute of Belgium, Brussels. Causal links between climate variability and the mass balance of the Antarctic ice sheet. Supervised by Stéphane Vannitsem and David Docquier
+* 2022: Research secondment, Potsdam Institute for Climate Impact Research. Long-term dynamics of the Earth system. Supervised by Andrey Ganopolski and Matteo Willeit
 * 2020: Working student, TU Berlin & IAV GmbH. Path-following control with deep-learning motion prediction for mobile robots
 * 2018-2020: Teaching fellow, TU Berlin. Statics & strength of materials, kinematics & dynamics
 * 2018-2019: Research assistant, Institute of Continuum Mechanics, TU Berlin. Fluid-structure interaction of blood and artery
