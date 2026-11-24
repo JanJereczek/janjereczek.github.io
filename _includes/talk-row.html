@@ -1,8 +1,8 @@
 {% include base_path %}
-<div class="row row--talk">
+<div class="row row--talk{% if post.recording %} row--video{% endif %}">
   <div class="row__date">{{ post.date | date: "%b %Y" }}</div>
   <div class="row__body">
     <h3 class="row__title"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h3>
-    <p class="row__meta"><span class="row__tag">{{ post.type }}</span>{{ post.venue }}, {{ post.location }}{% if post.recording %} <a class="row__recording" href="{{ post.recording }}">&#9654; Recording</a>{% endif %}</p>
+    <p class="row__meta">{% if post.recording %}<a class="row__tag row__tag--video" href="{{ post.recording }}">&#9654; Video</a>{% endif %}<span class="row__tag">{{ post.type }}</span>{{ post.venue }}, {{ post.location }}</p>
   </div>
 </div>

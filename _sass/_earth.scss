@@ -155,8 +155,22 @@ h1, h2, h3, h4, h5, h6 {
   color: $ink-color;
 }
 
-.row__recording {
-  color: $accent-color;
+.row--video {
+  margin-left: -0.9em;
+  padding-left: 0.9em;
+  border-left: 3px solid $accent-color;
+  background: rgba($accent-color, 0.05);
+}
+
+.row__tag--video {
+  border-color: $accent-color;
+  background: $accent-color;
+  color: #fff !important;
+  text-decoration: none;
+
+  &:hover {
+    background: darken($accent-color, 8%);
+  }
 }
 
 .about-teaser img {

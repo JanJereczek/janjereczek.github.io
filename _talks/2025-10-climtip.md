@@ -2,9 +2,9 @@
 title: 'Rate-induced Tipping of the Antarctic Ice Sheet'
 collection: talks
 type: "Webinar"
-permalink: /talks/2025-11-climtip
+permalink: /talks/2025-10-climtip
 venue: 'ClimTip'
-date: 2025-11-22
+date: 2025-10-07
 location: "Online"
 recording: https://www.youtube.com/watch?v=MzmfuG4tJio
 ---
