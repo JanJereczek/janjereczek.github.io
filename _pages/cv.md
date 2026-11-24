@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* 2021-2026: Ph.D. in Physics, cum laude, Complutense University of Madrid & CriticalEarth. Thesis: [Stability of the Antarctic ice sheet](https://hdl.handle.net/20.500.14352/137868)
+* 2021-2026: Ph.D. in Physics, magna cum laude, Complutense University of Madrid & CriticalEarth. Thesis: [Stability of the Antarctic ice sheet](https://hdl.handle.net/20.500.14352/137868)
 * 2017-2021: M.Sc. in Engineering Science, cum laude, TU Berlin
 * 2019: Erasmus+, University of Sevilla
 * 2013-2017: B.Sc. in Engineering Science, cum laude, TU Berlin
 
 Work experience
 ======
-* 2026-now: Postdoctoral researcher, Geosciences Institute (CSIC-UCM) & Complutense University of Madrid
+* 2026-now: Postdoctoral researcher, Geosciences Institute (CSIC-UCM) & Complutense University of Madrid. Past to Future (P2F) project, Horizon Europe
 * 2021-2026: Ph.D. researcher, CriticalEarth, Complutense University of Madrid. Abrupt transitions of the Antarctic Ice Sheet
 * 2023: Research secondment, Royal Meteorological Institute of Belgium, Brussels. Supervised by Stéphane Vannitsem and David Docquier
 * 2022: Research secondment, Potsdam Institute for Climate Impact Research. Long-term dynamics of the Earth system
@@ -61,3 +61,4 @@ Community
 ======
 * Technical lead of [GIAMIP](https://sites.google.com/view/giagrdmip/home), the GIA model intercomparison project
 * Member of the GIA focus group of [ISMIP7](https://www.ismip.org/)
+* 2024-2026: Co-organiser of the seminar series of the M.Sc. in Meteorology and Geophysics, Complutense University of Madrid
