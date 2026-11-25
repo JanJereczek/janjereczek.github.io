@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * 2021-2026: Ph.D. in Physics, magna cum laude, Complutense University of Madrid & CriticalEarth. Thesis: [Stability of the Antarctic ice sheet](https://hdl.handle.net/20.500.14352/137868)
-* 2017-2021: M.Sc. in Engineering Science, cum laude, TU Berlin
+* 2017-2021: M.Sc. in Engineering Science, cum laude, TU Berlin. Thesis: [Path-following NMPC with deep-learning environment motion prediction for mobile robots](/assets/theses/msc-thesis-swierczek-jereczek.pdf)
 * 2019: Erasmus+, University of Sevilla
-* 2013-2017: B.Sc. in Engineering Science, cum laude, TU Berlin
+* 2013-2017: B.Sc. in Engineering Science, cum laude, TU Berlin. Thesis: [Umsetzung und Bewertung eines modellbasierten Füllverfahrens für elektrohydraulische Schaltkupplungen in einer Fahrzeugumgebung](/assets/theses/bsc-thesis-swierczek-jereczek.pdf)
 
 Work experience
 ======
