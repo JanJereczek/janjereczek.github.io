@@ -79,5 +79,7 @@ Community
 ======
 * Technical lead of [GIAMIP](https://sites.google.com/view/giagrdmip/home), the GIA model intercomparison project
 * Member of the GIA focus group of [ISMIP7](https://www.ismip.org/)
+* 2026: Convener of the Earth System Modelling minisymposium, JuliaCon 2026, Mainz
+* 2025: Convener of the session on ecosystems, AEC 2025 congress, San Lorenzo de El Escorial
 * 2024: Reviewer for The Cryosphere (Van Calcar et al., Houriez et al.)
 * 2024-2026: Co-organiser of the seminar series of the M.Sc. in Meteorology and Geophysics, Complutense University of Madrid
